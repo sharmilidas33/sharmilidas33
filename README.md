@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmilidas33&label=Profile%20views&color=0e75b6&style=flat" alt="sharmilidas33" /> </p>
 
-- 📫 How to reach me **sharmilidas1@gmail.com**
+- 📫 I can be reached at **sharmilidas1@gmail.com**
 
 - ⚡ Fun fact **I am a classical dancer, coder, writer, reader, sketch artist.**
 
