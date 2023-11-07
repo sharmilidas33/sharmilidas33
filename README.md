@@ -21,6 +21,7 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express-js" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.seekpng.com/png/detail/117-1177155_mongodb-logo-mongodb-logo-transparent.png" alt="mongodb" width="40" height="40"/> </a> </p>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/meta-image.png" alt="php" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmilidas33&show_icons=true&locale=en&layout=compact" alt="sharmilidas33" /></p>
 
