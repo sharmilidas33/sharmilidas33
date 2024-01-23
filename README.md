@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharmili</h1>
-<h3 align="center">A passionate coding enthusiastic currently focused on mern stack development. Always eager to create new projects. A quick learner and team worker. </h3>
+<h3 align="center">A passionate coding enthusiastic currently focused on mern stack development and finds developing apps using React Native fascinating. Always eager to create new projects. A quick learner and team worker. </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
